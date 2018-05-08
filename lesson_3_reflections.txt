@@ -23,7 +23,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+   You stay up to date with the latest contributions to your repository. If your local copy is too outdated,
+   you would end up having many conflicts when pulling from the remote
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
