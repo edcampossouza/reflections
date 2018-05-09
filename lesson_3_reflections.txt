@@ -36,4 +36,11 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    The main benefit is that it allows other people to check your changes and see that it works correctly, 
+    before updating the master branch - and potentially breaking it. So you should use it when making collaborations
+    to a project that other people use. It also allows people to work on the master branch without worrying about your 
+    changes
+    The benefit of using the master thread is that the process is easier, since it does not involve merges and potential
+    conflicts, so you should use it if there is nobody else using your project, or collaborating with it
+    
+    
